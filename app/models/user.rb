@@ -10,3 +10,5 @@ class User < ApplicationRecord
       false
     end
 end
+
+# comment
